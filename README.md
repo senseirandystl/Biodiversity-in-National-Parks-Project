@@ -56,8 +56,6 @@ This project showcases core data analyst competencies:
 - **Exploratory Data Analysis & Storytelling** — Posed meaningful business questions, interpreted statistical output, and communicated findings in context.
 - **Reproducible Workflows** — Structured notebook with relative file paths and documented steps.
 
-These skills directly transfer to roles involving data cleaning, dashboarding, A/B or categorical testing, and turning raw data into actionable conservation or operational insights.
-
 ## How to Run
 
 ```bash
@@ -65,3 +63,13 @@ git clone https://github.com/senseirandystl/Biodiversity-in-National-Parks-Proje
 cd Biodiversity-in-National-Parks-Project
 pip install -r requirements.txt
 jupyter notebook biodiversity.ipynb
+```
+
+---
+
+**About Me**  
+Randall James | Data Coordinator / Data Analyst / Project Manager  
+St. Louis, MO (O'Fallon area) | Open to remote, hybrid, or on-site within ~30 min commute  
+[LinkedIn](https://www.linkedin.com/in/randall-james-stl) | [GitHub](https://github.com/senseirandystl) | randalljames34@pm.me
+
+*This project was created as part of my professional portfolio to demonstrate data analysis capabilities.*
